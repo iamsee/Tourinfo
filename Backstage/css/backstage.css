@@ -1,0 +1,18 @@
+/* CSS Document */
+
+
+/*header*/
+
+#head{ margin-bottom:10px; height:40px;background:#666;}
+
+/*content*/
+
+#content{ margin:30px; width:1200px; height:500px; background:#CCC;}
+
+/*content-left*/
+#left{ float:left;  margin-right:20px; height:500px; width:600px; }
+
+/*content-right*/
+
+#right{ float:left; height:500px; width:400px;  }
+
